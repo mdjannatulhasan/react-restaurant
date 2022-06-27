@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    font-family: 'Nunito', sans-serif;
+}
+.hero-title{
+    font-family: 'Playfair Display', serif;
+}
